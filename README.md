@@ -1,7 +1,6 @@
 # project_todo_app
 
-A new Flutter project.
-
+This is my first flutter project  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
